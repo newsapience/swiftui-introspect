@@ -356,16 +356,8 @@ Community projects
 
 Here are some popular open source libraries powered by SwiftUI Introspect:
 
-<a href="https://github.com/paescebu/CustomKeyboardKit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paescebu&repo=CustomKeyboardKit" />
-</a>
-
-<a href="https://github.com/davdroman/swiftui-navigation-transitions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davdroman&repo=swiftui-navigation-transitions" />
-</a>
-
-<a href="https://github.com/exyte/PopupView">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exyte&repo=PopupView" />
-</a>
+- [CustomKeyboardKit](https://github.com/paescebu/CustomKeyboardKit)
+- [swiftui-navigation-transitions](https://github.com/davdroman/swiftui-navigation-transitions)
+- [PopupView](https://github.com/exyte/PopupView)
 
 If you're working on a library built on SwiftUI Introspect or know of one, feel free to submit a PR adding it to the list.
