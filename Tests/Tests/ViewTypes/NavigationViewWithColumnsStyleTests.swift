@@ -32,6 +32,7 @@ struct NavigationViewWithColumnsStyleTests {
 		}
 	}
 
+	#if !targetEnvironment(macCatalyst)
 	@Test func introspectAsAncestor() async throws {
 		try await introspection(of: PlatformNavigationViewWithColumnsStyle.self) { spy in
 			NavigationView {
@@ -56,4 +57,5 @@ struct NavigationViewWithColumnsStyleTests {
 			#endif
 		}
 	}
+	#endif
 }
